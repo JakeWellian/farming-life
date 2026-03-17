@@ -1,3 +1,5 @@
+Mini farming game using Unity Engine and C#
+
 Instructions
 - Download file as a zip folder
 - Unzip folder
