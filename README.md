@@ -1,6 +1,6 @@
 # **Welcome to Farming Life!**
 
-Small mini-game where you can grow, collect, and sell plants! How quickly can you reach 1000$?
+Small mini-game where you can grow, collect, and sell plants! How fast can you reach 1000$?
 - Game was developed using Unity Engine and C# code
 - Available for Windows, Linux, and Mac users
 - Game concept and design inspired by James Doyle's course on Udemy
