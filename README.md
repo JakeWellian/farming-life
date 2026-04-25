@@ -8,7 +8,7 @@ Small mini-game where you can grow, collect, and sell plants! How fast can you r
 # **Instructions**
 - Download Zip folder
 - Unzip file
-- Select the folder compatible with your computer. The game is comptabile for Windows, Linux, and Mac
+- Select the folder compatible with your computer. The game is comptabile for Windows, and Linux
 - Play the game
 
 _Window users_
