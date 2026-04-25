@@ -2,7 +2,7 @@
 
 Small mini-game where you can grow, collect, and sell plants! How fast can you reach 1000$?
 - Game was developed using Unity Engine and C# code
-- Available for Windows, Linux, and Mac users
+- Available for Windows and Linux users
 - Game concept and design inspired by James Doyle's course on Udemy
 
 # **Instructions**
@@ -13,9 +13,6 @@ Small mini-game where you can grow, collect, and sell plants! How fast can you r
 
 _Window users_
 - To start game, double click the application "Farm life"
-
-_Mac users_
-- To start game, select file MacOs, double cluck file "Farm life"
 
 _Linux users_
 - To start game, double click X86_64 File "farm life.x86_64
